@@ -21,7 +21,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Nikhil & Rashmi Agarwal",
+        "title": "N/R Agarwal",
         "meta_descr": "Anniversary",
         "header_custom": "",
         "footer_custom": "",
@@ -40,12 +40,12 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/ganesha2-630x300.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
-                "title": "वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ ।\n<div>निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा ॥</div>",
-                "contentAlign": "right",
+                "title": "<span style=\"font-weight: normal;\"><br></span><br><br><br><br><br><br><span style=\"font-weight: normal;\">वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ ।</span><br><br><span style=\"font-weight: normal;\">\n</span><div><span style=\"font-weight: normal;\">निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा ॥</span></div>",
+                "contentAlign": "center",
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true
@@ -56,9 +56,9 @@
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
-                "title": "<i><br></i><br><br><br><i>A wedding anniversary is the celebration of love, trust, partnership, tolerance and tenacity.&nbsp;</i>",
-                "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "title": "\n<div>\n</div><div>\n</div><div>\n</div><div><span style=\"font-weight: normal;\"><br></span></div><span style=\"font-weight: normal;\"><br><br><br><br><br><br><br></span><div><span style=\"font-weight: normal;\">A wedding anniversary is the celebration of love, trust, partnership, tolerance and tenacity.&nbsp;</span></div>",
+                "contentAlign": "center",
+                "text": "<br>\n<br>\n<br>\n<br>A wedding anniversary is the celebration of love, trust, partnership, tolerance and tenacity.&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true,
                 "overlayOpacity": "0.4"
@@ -69,8 +69,8 @@
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
-                "title": "May you live as long as you wish and love as long as you live. ...",
-                "contentAlign": "right",
+                "title": "<span style=\"font-weight: normal;\"><br><br><br><br><br><br><br>May you live as long as you wish and love as long as you live. ...</span>",
+                "contentAlign": "center",
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true
@@ -81,8 +81,8 @@
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
-                "title": "<br><br>The secret of a &nbsp;happy marriage<br>is finding the right person.&nbsp;",
-                "contentAlign": "left",
+                "title": "<br><br><span style=\"font-weight: normal;\"><br></span><br><br><br><br><br><span style=\"font-weight: normal;\">The secret of a &nbsp;happy marriage<br>is finding the right person.&nbsp;</span>",
+                "contentAlign": "center",
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true
@@ -93,8 +93,8 @@
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
-                "title": "<br><br><br><br><br><br>An anniversary is a reminder as to why you love and married this person",
-                "contentAlign": "right",
+                "title": "<span style=\"font-weight: normal;\"><br><br><br><br><br><br><br></span><span style=\"font-weight: normal;\">An anniversary is a reminder as to why you love and married this person</span>",
+                "contentAlign": "center",
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true
@@ -105,20 +105,20 @@
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
-                "title": "May you live as long as you wish and love as long as you live.\r",
-                "contentAlign": "right",
+                "title": "<span style=\"font-weight: normal;\"><br></span><br><br><br><br><br><br><span style=\"font-weight: normal;\">May you live as long as you wish and love as long as you live.\n</span>",
+                "contentAlign": "center",
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-1153-2000x1333.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
-                "title": "Love grows more tremendously full, swift, poignant, as the years multiply.\r<div><br></div>",
-                "contentAlign": "left",
+                "title": "<span style=\"font-weight: normal;\"><br></span><br><br><br><br><br><br><br><span style=\"font-weight: normal;\">Love grows more tremendously full, swift, poignant, as the years multiply.\n</span><div><br></div>",
+                "contentAlign": "center",
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true
@@ -139,13 +139,16 @@
               "color": "#ffffff"
             },
             "H1": {
-              "text-align": "left",
+              "text-align": "center",
               "color": "#ffffff",
               "font-family": "'Yanone Kaffeesatz', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
             },
             "DIV": {
-              "text-align": "right"
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
             }
           }
         },

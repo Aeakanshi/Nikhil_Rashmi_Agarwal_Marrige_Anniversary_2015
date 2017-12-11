@@ -7,10 +7,13 @@
   color: #ffffff;
 }
 #slider-0 H1 {
-  text-align: left;
+  text-align: center;
   color: #ffffff;
   font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 #slider-0 DIV {
-  text-align: right;
+  text-align: center;
+}
+#slider-0 P {
+  text-align: left;
 }
