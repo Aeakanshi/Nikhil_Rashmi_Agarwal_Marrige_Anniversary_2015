@@ -518,6 +518,9 @@ html {
     width: 100%;
   }
 }
+.mbr-section.mbr-slider {
+  background-color: #e0dbdb;
+}
 .mbr-section {
   padding: 0 20px;
 }
@@ -824,8 +827,8 @@ html {
   left: -2px;
   letter-spacing: 2px;
   line-height: 50px;
-  margin: -18px 0 1px 0;
-  padding-bottom: 41px;
+  /*margin: -18px 0 1px 0;
+  padding-bottom: 41px;*/
   position: relative;
   top: 8px;
 }
