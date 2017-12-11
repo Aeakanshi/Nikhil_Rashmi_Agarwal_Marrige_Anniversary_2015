@@ -126,11 +126,11 @@
               "font-size": "48px",
               "font-family": "'Yanone Kaffeesatz', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
-              "color": "#fac51c"
+              "color": "#ffffff"
             },
             "H1": {
               "text-align": "left",
-              "color": "#f50d41",
+              "color": "#ffffff",
               "font-family": "'Yanone Kaffeesatz', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
             },
@@ -147,7 +147,7 @@
             "noGutter": true,
             "showText": false,
             "showBullets": true,
-            "bgColor": "#4c6972",
+            "bgColor": "#ffffff",
             "images": [
               {
                 "image": "@PROJECT_PATH@/assets/images/att110695-970x711.jpg",
@@ -250,7 +250,7 @@
             "noGutter": true,
             "showText": false,
             "showBullets": true,
-            "bgColor": "#4c6972",
+            "bgColor": "#ffffff",
             "images": [
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-859-2000x1333.jpg",
