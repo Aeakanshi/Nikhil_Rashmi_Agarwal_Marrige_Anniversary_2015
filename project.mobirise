@@ -1,0 +1,561 @@
+{
+  "settings": {
+    "name": "Site-12-11_1211",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#f50db3",
+        "#f50d41"
+      ]
+    },
+    "versionFirst": "4.3.4",
+    "uniqCompNum": 3,
+    "versionPublish": "4.3.4"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": false,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/ganesha2-630x300.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ ।\n<div>निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा ॥</div>",
+                "contentAlign": "right",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1303.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "<i><br></i><br><br><br><i>A wedding anniversary is the celebration of love, trust, partnership, tolerance and tenacity.&nbsp;</i>",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1272-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "May you live as long as you wish and love as long as you live. ...",
+                "contentAlign": "right",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1238-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "<br><br>The secret of a &nbsp;happy marriage<br>is finding the right person.&nbsp;",
+                "contentAlign": "left",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1232-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "<br><br><br><br><br><br>An anniversary is a reminder as to why you love and married this person",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1272-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "May you live as long as you wish and love as long as you live.\r",
+                "contentAlign": "right",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1153-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "Love grows more tremendously full, swift, poignant, as the years multiply.\r<div><br></div>",
+                "contentAlign": "left",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-0",
+          "_styles": {
+            "I": {
+              "font-size": "48px",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "color": "#fac51c"
+            },
+            "H1": {
+              "text-align": "left",
+              "color": "#f50d41",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+            },
+            "DIV": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/att110695-970x711.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/att110695-970x711-800x586.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/papa-ji.-1280x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/papa-ji.-1280x960-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-871-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-871-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-854-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-854-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-876-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-876-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-992-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-992-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-880-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-880-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-881-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-881-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-900-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-900-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-887-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-887-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-906-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-906-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-17-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-17-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-1"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-859-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-859-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-893-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-893-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-905-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-905-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-894-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-894-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-915-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-915-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-917-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-917-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-919-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-919-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-921-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-921-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-924-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-924-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-928-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-928-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-929-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-929-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-935-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-935-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-951-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-951-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-965-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-965-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-974-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-974-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1021-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1021-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1010-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1010-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1025-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1025-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1012-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1012-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1057-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1057-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1058-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1058-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1063-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1063-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1080-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1080-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1088-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1088-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1089-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1089-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1092-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1092-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1093-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1093-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1095-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1095-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1107-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1107-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1122-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1122-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1138-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1138-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1155-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1155-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1218-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1218-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1195-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1195-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1202-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1202-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1240-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1240-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1167-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1167-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1272-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1272-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1318-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1318-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1384-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1384-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1527-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1527-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-1638-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1638-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-2"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
+
+
+#slider-0 I {
+  font-size: 48px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color: #fac51c;
+}
+#slider-0 H1 {
+  text-align: left;
+  color: #f50d41;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+#slider-0 DIV {
+  text-align: right;
+}
